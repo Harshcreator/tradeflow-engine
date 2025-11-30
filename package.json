@@ -1,5 +1,5 @@
 {
-  "name": "my-turborepo",
+  "name": "tradeflow-engine",
   "private": true,
   "scripts": {
     "build": "turbo run build",
